@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Periodicals Club
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:
+BEGIN:VEVENT
+DTSTART:20141109T190000Z
+DTEND:20141109T210000Z
+DTSTAMP:20141104T212357Z
+UID:3thnj0h929h39ea07vgis7qnks@google.com
+CREATED:20141104T212248Z
+DESCRIPTION:Let's get this party started. Bring a magazine\, journal\, zine
+ \, or have one picked out at PRINTtEXT with something in it you want to dis
+ cuss. (If the article you want to share is lengthy\, think about narrowing 
+ it down to a specific passage.)
+LAST-MODIFIED:20141104T212248Z
+LOCATION:PRINTtEXT\, 652 E 52nd St\, Indianapolis\, IN 46205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Periodicals Club
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
